@@ -1,0 +1,7 @@
+[theme]
+# Primary brand color — deep indigo for professional, trustworthy feel
+primaryColor = "#312E81"
+backgroundColor = "#F8FAFC"
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#0F172A"
+font = "sans serif"

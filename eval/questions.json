@@ -1,0 +1,77 @@
+[
+  {
+    "question": "How many days of paid time off do employees get per year?",
+    "expected_answer": "15 days",
+    "source_page": 1
+  },
+  {
+    "question": "How is paid time off accrued?",
+    "expected_answer": "1.25 days per month",
+    "source_page": 1
+  },
+  {
+    "question": "How many sick leave days can be taken without a doctor note?",
+    "expected_answer": "5 days",
+    "source_page": 1
+  },
+  {
+    "question": "When can employees start working remotely?",
+    "expected_answer": "90-day probationary",
+    "source_page": 1
+  },
+  {
+    "question": "What are the core hours?",
+    "expected_answer": "10:00",
+    "source_page": 2
+  },
+  {
+    "question": "How many hours is the standard workweek?",
+    "expected_answer": "40 hours",
+    "source_page": 2
+  },
+  {
+    "question": "When does health insurance start?",
+    "expected_answer": "60 days",
+    "source_page": 3
+  },
+  {
+    "question": "What percentage of the premium does the company contribute?",
+    "expected_answer": "75 percent",
+    "source_page": 3
+  },
+  {
+    "question": "What is the retirement contribution?",
+    "expected_answer": "5 percent",
+    "source_page": 3
+  },
+  {
+    "question": "When are salaries paid?",
+    "expected_answer": "15th and last day",
+    "source_page": 3
+  },
+  {
+    "question": "What is the overtime pay rate?",
+    "expected_answer": "1.5 times",
+    "source_page": 2
+  },
+  {
+    "question": "Who should questions about HR policies be directed to?",
+    "expected_answer": "hr@acme.com",
+    "source_page": 4
+  },
+  {
+    "question": "What is the notice period for resignation?",
+    "expected_answer": "30 days",
+    "source_page": 4
+  },
+  {
+    "question": "What color is the sky?",
+    "expected_answer": "I couldn't find that in the document",
+    "source_page": null
+  },
+  {
+    "question": "What is the company stock price?",
+    "expected_answer": "I couldn't find that in the document",
+    "source_page": null
+  }
+]
