@@ -77,7 +77,9 @@ Simple RAG/
 ## What I Built
 
 • **Built a RAG-based assistant that answers employee questions about workplace policies in plain language, with answers cited by page number.**
+
 • **Embedded policy documents with Sentence Transformers and stored them in ChromaDB for retrieval, then used the GenAI API to generate the answers.**
+
 • **Created a Streamlit interface for employees to ask questions.**
 
 ## Technologies Used
